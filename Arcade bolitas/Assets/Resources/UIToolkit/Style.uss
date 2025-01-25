@@ -1,0 +1,14 @@
+VisualElement {
+}
+
+.CuadroBotones {
+    width: 50%;
+    height: 10%;
+    justify-content: center;
+    top: auto;
+    left: 0;
+    min-height: 0;
+    align-self: center;
+    align-items: stretch;
+    padding-top: 0;
+}
